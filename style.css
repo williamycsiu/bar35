@@ -1,0 +1,27 @@
+body {
+  background: url(http://static1.squarespace.com/static/547d3a0fe4b009320b6915e1/t/54c7465be4b080f91c82df1f/1422345819989/Bar+35_hero_06+top+bar.jpg) no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.ui.borderless.menu {
+  background: none;
+}
+
+.color {
+  font-size: 18px;
+}
+
+.small {
+  margin-top: 110px;
+  margin-bottom: 120px;
+  width: 500px;
+}
+
+.font {
+  font-family: 'Comic', sans-serif;
+  font-size: 38px;
+  padding: 0.5em;
+  color: white;
+}
